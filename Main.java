@@ -48,7 +48,7 @@ public class Main {
            // hashTable.printWordSelect("fun");
 
         }
-        hashTable.printAll();
+        //hashTable.printAll();
 
         hashTable.printAverageAll();
 
